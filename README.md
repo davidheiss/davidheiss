@@ -11,6 +11,7 @@ Let's connect and collaborate on something amazing! 😊
 ----
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/davidhei%C3%9F/)
+[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/15794517/david-hei%c3%9f)
 
 ----
 
