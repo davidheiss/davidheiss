@@ -14,7 +14,7 @@ Let's connect and collaborate on something amazing! 😊
 
 ----
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DavidHeiss&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DavidHeiss&theme=transparent)](https://github.com/anuraghazra/github-readme-stats) 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DavidHeiss&theme=shadow_blue)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DavidHeiss&theme=shadow_blue)](https://github.com/anuraghazra/github-readme-stats) 
 
 
