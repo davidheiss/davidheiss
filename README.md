@@ -1,7 +1,4 @@
 # Hi there! 👋
-
-I'm David, a Project Collaborator / Student at Hochschule Darmstadt, University of Applied Sciences (h_da).
-
 ----
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/davidhei%C3%9F/)
