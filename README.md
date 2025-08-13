@@ -16,3 +16,6 @@ Currently focused on:
 📫 **Reach me**: [Email](mailto:david.heiss0406@gmail.com)
 
 ---
+![davidheiss's Stats](https://github-readme-stats.vercel.app/api?username=davidheiss&theme=dark&show_icons=true&hide_border=false&count_private=true)
+
+![davidheiss's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=davidheiss&theme=dark&show_icons=true&hide_border=false&layout=compact)
