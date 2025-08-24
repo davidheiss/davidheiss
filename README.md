@@ -9,7 +9,7 @@ Currently focused on:
 - Automating red team workflows from reconnaissance to exploitation
 
 💻 **Tech Stack**: C, Python, Linux, Offensive Security, Adversarial ML  
-🔍 **Interests**: Bug bounty, red teaming, AI safety testing, scalable hacking tools  
+🔍 **Interests**: Bug bounty, red teaming, AI safety testing, hacking tools  
 
 ---
 
